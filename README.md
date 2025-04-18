@@ -1,4 +1,3 @@
-[![Alexiel Reyes, Fullstack developer](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Fullstack%20developer&title=Alexiel%20Reyes)](https://pimp-my-readme-next.vercel.app)
 ## Hi there 👋<br>Welcome to my profile, here have a look:
 
 <!--
