@@ -1,5 +1,3 @@
-## Hi there 👋<br>Welcome to my profile, here have a look:
-
 <!--
 **Areymn/Areymn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
