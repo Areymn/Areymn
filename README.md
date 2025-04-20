@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on dynamic webpages<br>👯 I’m looking to collaborate on Macroprojects<br>🤝 I’m looking for help with Node tips<br>🌱 I’m currently learning JS and Java<br>💬 Ask me about the Metaverse!<br>😄 Pronouns: she/her, ella<br>⚡ Fun fact: I'm also a linguist!
+🔭 I’m currently working on dynamic webpages<br>👯 I’m looking to collaborate on Macroprojects<br>🤝 I’m looking for help with Node tips<br>🌱 I’m currently learning JS and Java<br>💬 Ask me about the Metaverse and VR technologies!<br>😄 Pronouns: she/her, ella<br>⚡ Fun fact: I'm also a linguist!
 
 
 ## 🌐 Socials:
