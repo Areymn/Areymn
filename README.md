@@ -3,7 +3,7 @@
 👯 I’m looking to collaborate on Macroprojects<br>
 🤝 I’m looking for help with Node tips<br>
 🌱 I’m currently learning JS and Java<br>
-💬 Ask me about the Metaverse and VR technologies!<br>
+💬 Ask me about Virtual Reality!<br>
 😄 Pronouns: she/her, ella<br>
 ⚡ Fun fact: Intersted in QA and linguistics
 
