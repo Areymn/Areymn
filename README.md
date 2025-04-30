@@ -1,19 +1,11 @@
-<!--
-**Areymn/Areymn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
-🔭 I’m currently working on dynamic webpages<br>👯 I’m looking to collaborate on Macroprojects<br>🤝 I’m looking for help with Node tips<br>🌱 I’m currently learning JS and Java<br>💬 Ask me about the Metaverse and VR technologies!<br>😄 Pronouns: she/her, ella<br>⚡ Fun fact: Intersted in QA and linguistics
+🔭 I’m currently working on dynamic webpages<br>
+👯 I’m looking to collaborate on Macroprojects<br>
+🤝 I’m looking for help with Node tips<br>
+🌱 I’m currently learning JS and Java<br>
+💬 Ask me about the Metaverse and VR technologies!<br>
+😄 Pronouns: she/her, ella<br>
+⚡ Fun fact: Intersted in QA and linguistics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexiel-reyes-martin/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Areymn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexielreyesmartin@gmail.com) 
