@@ -19,4 +19,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Areymn&icon=0&color=11)](https://visitcount.itsvg.in)
 
+# Roadmap Stats:
+[![roadmap.sh](https://roadmap.sh/card/wide/6813a37a7451c5834b07dbec?variant=dark&roadmaps=full-stack%2Cqa)](https://roadmap.sh)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
