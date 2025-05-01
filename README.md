@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on dynamic webpages<br>
 👯 I’m looking to collaborate on Macroprojects<br>
-🤝 I’m looking for help with Node tips<br>
-🌱 I’m currently learning JS and Java<br>
+🤝 I’m looking for help with Node tips and Quality Assurance<br>
+🌱 I’m currently learning JavaScript, Node.js, React.js and Java<br>
 💬 Ask me about Virtual Reality!<br>
 😄 Pronouns: she/her, ella<br>
 ⚡ Fun fact: Intersted in QA and linguistics
