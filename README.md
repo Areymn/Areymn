@@ -1,5 +1,10 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on designing a full stack webpage<br><br>👯 I’m looking to collaborate on Corporate Macroprojects<br><br>🤝 I’m looking for help with Node tips and Quality Assurance<br><br>🌱 I’m currently learning JavaScript, Node.js, React.js and Java<br><br>💬 Ask me about Virtual Reality<br><br>😄 Pronouns: she/her, ella<br><br>⚡ Fun fact: Intersted in QA and linguistics
+💫 About Me:<br>🔭 I’m currently working on designing a full stack webpage
+<br>👯 I’m looking to collaborate on Corporate Macroprojects
+<br>🤝 I’m looking for help with Node tips and Quality Assurance
+<br>🌱 I’m currently learning JavaScript, Node.js, React.js and Java
+<br>💬 Ask me about Virtual Reality<br><br>😄 Pronouns: she/her, ella
+<br>⚡ Fun fact: Intersted in QA and linguistics
 
 
 ## 🌐 Socials:
@@ -17,17 +22,12 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 [![](https://visitcount.itsvg.in/api?id=Areymn&icon=0&color=11)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/areymn) 
-  
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Roadmap Stats:
 [![roadmap.sh](https://roadmap.sh/card/wide/6813a37a7451c5834b07dbec?variant=dark&roadmaps=full-stack%2Cqa)](https://roadmap.sh)
----
 [![](https://visitcount.itsvg.in/api?id=Areymn&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/areymn) 
