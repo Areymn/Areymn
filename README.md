@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on designing a full stack webpage
+💫 About Me:<br>🔭 I’m currently working on designing a documentation webpage
 <br>👯 I’m looking to collaborate on Corporate Website Development and implementation
 <br>🤝 I’m looking for help with Quality Assurance and Continous Deployment
 <br>🌱 I’m currently learning JS, Node.js, React.js and Java
