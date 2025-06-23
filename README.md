@@ -6,7 +6,7 @@
 <br>💬 Ask me about Virtual Reality, Art, Sign Language and Language Learning!
 <br>😄 Pronouns: she/her, ella
 <br>⚡ Fun fact: Intersted in QA, literature and linguistics
-<br>🌐 Add me on my socials!
+<br>🌐 Find my other socials and profiles for more projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexiel-reyes-martin/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Areymn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexielreyesmartin@gmail.com) 
