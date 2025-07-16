@@ -5,7 +5,7 @@
 <br>🌱 I’m currently learning Python, QA, JavaScript, Node.js, React.js and Java
 <br>💬 Ask me about Virtual Reality, Art, Sign Language and Language Learning!
 <br>😄 Pronouns: she/her, ella
-<br>⚡ Fun facts: Intersted in Quality Assurance, literature and linguistics
+<br>⚡ Fun facts: Intersted in literature and linguistics
 <br>🌐 Find my other socials and profiles for more projects
 
 ## 🌐 Socials:
