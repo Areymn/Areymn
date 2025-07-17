@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on a documentation webpage
+💫 About Me:<br>🔭 I’m currently working on documentation, fullstack and optimization
 <br>👯 I’m looking to collaborate on Website Development and implementation
 <br>🤝 I’m looking for help with Quality Assurance and Continous Deployment
 <br>🌱 I’m currently learning Python, QA, JavaScript, Node.js, React.js and Java
