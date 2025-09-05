@@ -3,8 +3,8 @@
 <br>👯 I’m looking to collaborate on Website Development and implementation
 <br>🤝 I’m looking for help with Login and database deployment
 <br>🌱 I’m currently learning Python, QA, JavaScript, Node.js, React.js and Java
-<br>💬 Ask me about Technology, Art and Linguistics
-<br>⚡ Fun facts: Intersted in literature and linguistics
+<br>💬 Ask me about Virtual Technology, Art and Linguistics
+<br>⚡ Fun facts: I'm currently researching about Programming
 <br>🌐 Find my other socials and profiles for more projects
 
 ## 🌐 Socials:
