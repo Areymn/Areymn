@@ -4,7 +4,7 @@
 <br>🤝 I’m looking for help with Login and database deployment
 <br>🌱 I’m currently learning Python, QA, JavaScript, Node.js, React.js and Java
 <br>💬 Ask me about Virtual Technology, Art and Linguistics
-<br>⚡ Fun facts: I'm currently researching about Programming
+<br>⚡ Fun facts: I'm currently researching about Programming and Teaching
 <br>🌐 Find my other socials and profiles for more projects
 
 ## 🌐 Socials:
