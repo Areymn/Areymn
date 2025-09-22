@@ -1,7 +1,7 @@
 # 💫 About Me:
 💫 About Me:<br>🔭 I’m currently working on gitbook documentation, Full Stack programming
 <br>👯 I’m looking at Website Development, Deployment and Optimization
-<br>🤝 I’m looking for help with Login and database deployment
+<br>🤝 I’m looking for help with Login and Database Deployment
 <br>🌱 I’m currently learning Python, QA, JavaScript, Node.js, React.js and Java
 <br>💬 Ask me about Virtual Reality, Metaverses, Technology, Art and Linguistics
 <br>⚡ Fun facts: I'm currently researching about Programming and Teaching
