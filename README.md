@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on gitbook documentation, Full Stack programming
+# 💫 About Me
+🔭 I’m currently working on gitbook documentation, Full Stack programming
 <br>👯 I’m looking at Website Development, Deployment and Optimization
 <br>🤝 I’m looking for help with Login and Database Deployment
 <br>🌱 I’m currently learning Python, QA, JavaScript, Node.js, React.js and Java
