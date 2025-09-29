@@ -5,7 +5,7 @@
 <br>🌱 I’m currently learning React, Python, QA, JavaScript, Node.js and Java
 <br>💬 Ask me about Virtual Reality, Metaverses, Technology, Art and Linguistics
 <br>⚡ Fun facts: I'm currently researching about Programming and Teaching
-<br>🌐 Find my other socials and profiles for more projects~
+<br>🌐 Find my other socials and profiles for more projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexiel-reyes-martin/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Areymn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexielreyesmartin@gmail.com) 
