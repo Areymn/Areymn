@@ -3,7 +3,7 @@
 <br>👯 I’m looking at Website Development, Deployment and Optimization
 <br>🤝 I’m looking for help with Login and Database Deployment
 <br>🌱 I’m currently learning React, Python, QA, JavaScript, Node.js and Java
-<br>💬 Ask me about Virtual Reality, Metaverses, Technology, Art and Linguistics
+<br>💬 Ask me about Virtual Reality, Metaverses, Technology, Art and Linguistics!
 <br>⚡ Fun facts: I'm currently researching about Programming and Teaching
 <br>🌐 Find my other socials and profiles for more projects!
 
